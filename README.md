@@ -54,6 +54,8 @@ Regresyon modellerini kurarken 3 ana hatta dikkat ettim.
 Bu 3 yapıda modellerimizi oluşturduk, tahmin değerlerine baktık ve modellerin doğruluk oranları/hata paylarına baktık.
 
 ### Model Görselleştirme:
+#### -Random Forest:
+![Lineer_Regresyon_Notları_15_Python_Random_Forest_Regresyon_HD_Grafik_100_Agacli](https://github.com/beyzqusta/MachineLearning/assets/129887098/ada5ab6d-2b76-4e8d-9ce9-804de141608b)
 
 
 
