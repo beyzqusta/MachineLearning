@@ -60,8 +60,8 @@ Bu 3 yapıda modellerimizi oluşturduk, tahmin değerlerine baktık ve modelleri
 #### -Yapay Sinir Ağları:
 ![Ekran-Resmi-2018-08-08-17 26 41-1024x584](https://github.com/beyzqusta/MachineLearning/assets/129887098/ea117046-fa6a-4697-853e-5ebc43cc3f2e)
 
-[Sınıflandırma Problemi :](https://github.com/beyzqusta/MachineLearning/blob/main/siniflandirma.ipynb)<br/>
-[Gözetimsiz Öğrenme :](https://github.com/beyzqusta/MachineLearning/blob/main/gozetimsiz_ogrenme.ipynb)
+[Sınıflandırma Problemi](https://github.com/beyzqusta/MachineLearning/blob/main/siniflandirma.ipynb)<br/>
+[Gözetimsiz Öğrenme](https://github.com/beyzqusta/MachineLearning/blob/main/gozetimsiz_ogrenme.ipynb)
 
 
 
